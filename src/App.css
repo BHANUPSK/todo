@@ -1,0 +1,16 @@
+.Contener{
+  justify-content: space-around ;
+
+}
+.New{
+  background-color: rgb(42, 165, 73);
+  height: 20vh;
+}
+.Do{
+  height: 50vh;
+  background-color: darkkhaki;
+}
+.Com{
+  height: 30vb;
+  background-color: crimson;
+}
