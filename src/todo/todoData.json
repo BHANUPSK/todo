@@ -7,7 +7,12 @@
     {
         "id":2,
         "msg":"Breakfast",
-        "status":"doning"
+        "status":"doing"
+    },
+    {
+        "id":3,
+        "msg":"Lunch",
+        "status":"done"
     }
 
 ]
